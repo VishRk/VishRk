@@ -2,7 +2,7 @@
   <img src="./assets/banner.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm Vishnu R Kumar 👋</h1>
+<h1 align="center">Hi there, I'm Vishnu👋</h1>
 <h3 align="center">AI / LLM Engineer • Agentic Systems & RAG • Distributed Cloud Architecture (AWS)</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+in+production;LLM+tool-calling+loops+%2B+MCP+servers+%2B+guardrails;RAG+pipelines+%E2%80%94+retrieval+quality%2C+not+just+wiring;%7E6+years+on+fault-tolerant+AWS+serverless+systems" alt="Typing SVG" />
