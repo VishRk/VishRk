@@ -88,19 +88,6 @@ Senior Software Engineer (Computer Scientist) building real-time, event-driven s
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnurkumar&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnurkumar&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnurkumar&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
 ### 🏆 Achievements
 
 - 🥇 Global **"Best Idea" Award** — company-wide Customer Support Hackathon (60+ submissions)
