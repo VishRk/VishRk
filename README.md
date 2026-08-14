@@ -1,19 +1,16 @@
-Hi there👋
+Hi there 👋
 
-I'm **Vishnu**, I build distributed systems and cloud applications.
+I'm **Vishnu**. I'm a software engineer who likes building things and figuring out how they work.
 
-These days, I'm exploring **Artificial Intelligence, LLMs, RAG, agentic systems and MCP**, while continuing to build things with **AWS, Python, TypeScript and Node.js**.
+I've spent most of my career working on **distributed systems, AWS and cloud applications**. Lately, I've been spending a lot more time with **AI, LLMs, RAG, agentic systems and MCP**.
 
-* I enjoy building software and experimenting with ideas that are interesting enough to turn into side projects.
-* I'm particularly interested in the engineering behind reliable AI systems, not just the models themselves.
-* I love travelling and discovering new places.
+I enjoy taking an idea, turning it into a small project, and seeing where it goes. Some of those projects end up being useful. Some are just me satisfying my curiosity.
 
-More about me:
+A few things I'm usually interested in:
 
-* Software engineer by profession.
-* Currently going deeper into AI and LLM engineering.
-* Long-time AWS and distributed systems enthusiast.
-* Traveller whenever I'm not staring at a terminal.
-* Always learning something new.
+* Building software that can actually survive production
+* Understanding what's happening under the hood, especially with AI systems
+* Playing around with new tools and ideas
+* Travelling and finding places worth going back to
 
 You can find me on [LinkedIn](https://linkedin.com/in/vishnu-kumar-620a14184) or reach me at [email](mailto:vrk800@gmail.com).
