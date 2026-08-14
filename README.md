@@ -1,6 +1,6 @@
 Hi there👋
 
-I'm **Vishnu R Kumar**, I build distributed systems and cloud applications.
+I'm **Vishnu**, I build distributed systems and cloud applications.
 
 These days, I'm exploring **Artificial Intelligence, LLMs, RAG, agentic systems and MCP**, while continuing to build things with **AWS, Python, TypeScript and Node.js**.
 
