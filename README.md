@@ -13,4 +13,4 @@ A few things I'm usually interested in:
 * Playing around with new tools and ideas
 * Travelling and finding places worth going back to
 
-You can find me on [LinkedIn](https://linkedin.com/in/vishnu-kumar-620a14184) or reach me at [email](mailto:vrk800@gmail.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/vishnu-r-kumar-620a14184/) or reach me at [email](mailto:vrk800@gmail.com).
